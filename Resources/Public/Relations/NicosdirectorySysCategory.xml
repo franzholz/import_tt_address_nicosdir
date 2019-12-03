@@ -1,0 +1,5 @@
+<import>
+    <import-source>tx_nicosdirectory_category</import-source>
+    <import-destination>sys_category</import-destination>
+    <title>name</title>
+</import>

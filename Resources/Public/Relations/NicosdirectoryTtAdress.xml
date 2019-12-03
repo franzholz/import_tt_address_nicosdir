@@ -1,0 +1,19 @@
+<import>
+    <import-source>tx_nicosdirectory_entry</import-source>
+    <import-source-mm-category>tx_nicosdirectory_mm</import-source-mm-category>
+    <import-destination>tt_address</import-destination>
+    <import-destination-mm-category>sys_category_record_mm</import-destination-mm-category>
+    <import-destination-mm-category-field>categories</import-destination-mm-category-field>
+    <import-destination-extension>tt_address</import-destination-extension>
+    <name>name</name>
+    <address>street</address>
+    <zip>zip</zip>
+    <city>city</city>
+    <phone>tel</phone>
+    <fax>fax</fax>
+    <email>email</email>
+    <www>www</www>
+    <position>profile</position>
+    <image>image</image>
+    <categories>category</categories>
+</import>
