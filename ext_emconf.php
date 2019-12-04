@@ -1,7 +1,7 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'Import of nicosdirectory tables into tt_address and sys_category',
+	'title' => 'nicosdirectory into tt_address and sys_category',
 	'description' => 'This extends the import extension for the conversion from nicosdirectory to tt_address',
 	'category' => 'backend',
 	'author' => 'Franz Holzinger',
