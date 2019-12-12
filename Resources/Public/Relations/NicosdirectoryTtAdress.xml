@@ -1,6 +1,7 @@
 <import>
     <import-source>tx_nicosdirectory_entry</import-source>
     <import-source-mm-category>tx_nicosdirectory_mm</import-source-mm-category>
+    <import-source-image-folder>uploads/tx_nicosdirectory</import-source-image-folder>
     <import-destination>tt_address</import-destination>
     <import-destination-mm-category>sys_category_record_mm</import-destination-mm-category>
     <import-destination-mm-category-field>categories</import-destination-mm-category-field>
