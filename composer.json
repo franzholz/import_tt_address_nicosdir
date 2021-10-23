@@ -22,8 +22,8 @@
     "GPL-2.0-or-later"
   ],
   "require": {
-    "typo3/cms-core": ">=7.6.0,<9.99.99",
-    "jambagecom/import": ">=0.4.0"
+    "typo3/cms-core": "^7.6 || ^8.7 || ^9.5",
+    "jambagecom/import": "^0.4.0"
   },
   "autoload": {
     "psr-4": {
