@@ -31,7 +31,6 @@
     }
   },
   "replace": {
-    "jambagecom/import-tt-address-nicosdir": "self.version",
     "typo3-ter/import-tt-address-nicosdir": "self.version"
   },
   "extra": {
